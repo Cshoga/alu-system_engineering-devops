@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# A file for client configuration.
+Host *
+     IndetityFile ~/.ssh/school
+     PasswordAuthentication No
